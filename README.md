@@ -8,7 +8,8 @@
 
 Book a reading seat, a group table or a discussion room online in under a minute.
 Bookings and messages are saved straight into **Google Sheets**, and an **Admin Portal** shows them all in one place.<br>
-Deployment link: https://sm01010011.github.io/Library_Hub_CSE326/
+Deployment link: https://sm01010011.github.io/Library_Hub_CSE326/ <br>
+Vercel Link: https://libraryhub-rho-nine.vercel.app/
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
