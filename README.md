@@ -7,7 +7,7 @@
 **CSE326 Course Project · Lovely Professional University**
 
 Book a reading seat, a group table or a discussion room online in under a minute.
-Bookings and messages are saved straight into **Google Sheets**, and an **Admin Portal** shows them all in one place.
+Bookings and messages are saved straight into **Google Sheets**, and an **Admin Portal** shows them all in one place.<br>
 Deployment link: https://sm01010011.github.io/Library_Hub_CSE326/
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
